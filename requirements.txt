@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision
+transformers>=4.30.0
+Pillow
+tqdm
+bitsandbytes>=0.41.0
